@@ -84,4 +84,4 @@ ax2.set_xlabel("Games Played")
 ax2.set_ylabel("Player")
 
 st.pyplot(fig2)
-S
+
